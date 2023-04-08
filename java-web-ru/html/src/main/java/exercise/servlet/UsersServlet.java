@@ -2,6 +2,7 @@ package exercise.servlet;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -9,6 +10,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
@@ -50,10 +53,8 @@ public class UsersServlet extends HttpServlet {
 
         ObjectMapper mapper = new ObjectMapper();
 
-        String json = new String(Files.readAllBytes(Paths.get("/home/george/Hexlet/hexlet-assignments/java-web-ru/html/src/main/resources/users.json")));
-
-        List<User> users = mapper.readValue(json, new TypeReference<List<User>>() {
-        });
+        InputStream inputStream = getClass().getClassLoader().getResourceAsStream("users.json");
+        List<User> users = mapper.readValue(inputStream, new TypeReference<List<User>>() {});
 
         return users;
     }
