@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.653s</div>
+<div class="counter">1.676s</div>
 <p>duration</p>
 </div>
 </td>
@@ -79,67 +79,67 @@
 </thead>
 <tr>
 <td class="success">testCreateUser()</td>
-<td class="success">0.026s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">testCreateUserWithIncorrectData()</td>
-<td class="success">0.019s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">testDelete()</td>
-<td class="success">0.015s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">testDestroyUser()</td>
-<td class="success">0.036s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">testEditUser()</td>
-<td class="success">0.373s</td>
-<td class="success">passed</td>
-</tr>
-<tr>
-<td class="success">testFlash()</td>
 <td class="success">0.034s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
+<td class="success">testCreateUserWithIncorrectData()</td>
+<td class="success">0.094s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testDelete()</td>
+<td class="success">0.076s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testDestroyUser()</td>
+<td class="success">0.032s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testEditUser()</td>
+<td class="success">0.947s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testFlash()</td>
+<td class="success">0.117s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
 <td class="success">testNewUser()</td>
-<td class="success">0.007s</td>
+<td class="success">0.006s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">testUpdateUser()</td>
-<td class="success">0.054s</td>
+<td class="success">0.149s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">testUpdateUserWithIncorrectData()</td>
-<td class="success">0.009s</td>
+<td class="success">0.008s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">testUser()</td>
-<td class="success">0.018s</td>
+<td class="success">0.092s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">testUserIncorrectLogin()</td>
-<td class="success">0.014s</td>
+<td class="success">0.063s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">testUserLogin()</td>
-<td class="success">0.010s</td>
+<td class="success">0.014s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
 <td class="success">testUserLogout()</td>
-<td class="success">0.010s</td>
+<td class="success">0.012s</td>
 <td class="success">passed</td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@
 </tr>
 <tr>
 <td class="success">testUsersAll()</td>
-<td class="success">0.021s</td>
+<td class="success">0.025s</td>
 <td class="success">passed</td>
 </tr>
 </table>
@@ -157,33 +157,35 @@
 <div id="tab1" class="tab">
 <h2>Standard error</h2>
 <span class="code">
-<pre>May 03, 2023 10:15:18 PM org.apache.coyote.AbstractProtocol init
+<pre>May 03, 2023 11:14:20 PM org.apache.coyote.AbstractProtocol init
 INFO: Initializing ProtocolHandler [&quot;http-nio-auto-1&quot;]
-May 03, 2023 10:15:19 PM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+May 03, 2023 11:14:20 PM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
 INFO: Using a shared selector for servlet write/read
-May 03, 2023 10:15:19 PM org.apache.catalina.core.StandardService startInternal
+May 03, 2023 11:14:20 PM org.apache.catalina.core.StandardService startInternal
 INFO: Starting service [Tomcat]
-May 03, 2023 10:15:19 PM org.apache.catalina.core.StandardEngine startInternal
+May 03, 2023 11:14:20 PM org.apache.catalina.core.StandardEngine startInternal
 INFO: Starting Servlet engine: [Apache Tomcat/8.5.69]
-May 03, 2023 10:15:19 PM org.apache.catalina.startup.ContextConfig getDefaultWebXmlFragment
+May 03, 2023 11:14:20 PM org.apache.catalina.startup.ContextConfig getDefaultWebXmlFragment
 INFO: No global web.xml found
-May 03, 2023 10:15:19 PM org.apache.jasper.servlet.TldScanner scanJars
+May 03, 2023 11:14:21 PM org.apache.jasper.servlet.TldScanner scanJars
 INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-May 03, 2023 10:15:19 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler [&quot;http-nio-auto-1-43663&quot;]
+May 03, 2023 11:14:21 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler [&quot;http-nio-auto-1-36033&quot;]
 SLF4J: Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-May 03, 2023 10:15:20 PM org.apache.coyote.AbstractProtocol pause
-INFO: Pausing ProtocolHandler [&quot;http-nio-auto-1-43663&quot;]
-May 03, 2023 10:15:20 PM org.apache.catalina.core.StandardService stopInternal
+May 03, 2023 11:14:23 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler [&quot;http-nio-auto-1-36033&quot;]
+May 03, 2023 11:14:23 PM org.apache.catalina.core.StandardService stopInternal
 INFO: Stopping service [Tomcat]
-May 03, 2023 10:15:20 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesObjectStreamClassCaches
+May 03, 2023 11:14:23 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesObjectStreamClassCaches
 WARNING: When running on Java 9 or later you need to add &quot;--add-opens=java.base/java.io=null&quot; to the JVM command line arguments to enable ObjectStream cache memory leak protection. Alternatively, you can suppress this warning by disabling ObjectStream class cache memory leak protection.
-May 03, 2023 10:15:20 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesRmiTargets
+May 03, 2023 11:14:23 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalsForLeaks
+WARNING: When running on Java 9 or later you need to add &quot;--add-opens=java.base/java.lang=null&quot; to the JVM command line arguments to enable ThreadLocal memory leak detection. Alternatively, you can suppress this warning by disabling ThreadLocal memory leak detection.
+May 03, 2023 11:14:23 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesRmiTargets
 WARNING: When running on Java 9 or later you need to add &quot;--add-opens=java.rmi/sun.rmi.transport=null&quot; to the JVM command line arguments to enable RMI Target memory leak detection. Alternatively, you can suppress this warning by disabling RMI Target memory leak detection.
-May 03, 2023 10:15:20 PM org.apache.coyote.AbstractProtocol stop
-INFO: Stopping ProtocolHandler [&quot;http-nio-auto-1-43663&quot;]
+May 03, 2023 11:14:23 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler [&quot;http-nio-auto-1-36033&quot;]
 </pre>
 </span>
 </div>
@@ -195,7 +197,7 @@ INFO: Stopping ProtocolHandler [&quot;http-nio-auto-1-43663&quot;]
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 7.4</a> at May 3, 2023, 10:15:21 PM</p>
+<a href="http://www.gradle.org">Gradle 7.5.1</a> at May 3, 2023, 11:14:23 PM</p>
 </div>
 </div>
 </body>

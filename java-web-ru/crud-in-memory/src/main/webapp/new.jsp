@@ -19,7 +19,7 @@
                     <label>Имя</label>
                     <input class="form-control" type="text" name="firstName" value='${user.getOrDefault("firstName", "")}'>
                     <label>Фамилия</label>
-                    <input class="form-control" type="text" name="secondName" value='${user.getOrDefault("lastName", "")}'>
+                    <input class="form-control" type="text" name="lastName" value='${user.getOrDefault("lastName", "")}'>
                     <label>Email</label>
                     <input class="form-control" type="email" name="email">
                 </div>
