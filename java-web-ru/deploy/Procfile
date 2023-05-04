@@ -1,0 +1,4 @@
+  HttpSession session = request.getSession();
+        session.removeAttribute("userId");
+        session.setAttribute("flash", "Вы успешно вышли");
+        response.sendRedirect("/");
