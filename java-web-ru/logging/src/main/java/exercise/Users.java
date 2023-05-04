@@ -39,10 +39,10 @@ public class Users {
         }
     }
 
-    //private String getNextId() {
-        //int id = ++idCounter;
-        //return Integer.toString(id);
-    //}
+    private String getNextId() {
+        int id = ++idCounter;
+        return Integer.toString(id);
+    }
 
     public Map<String, String> build() {
         Map<String, String> user = new HashMap<>();
