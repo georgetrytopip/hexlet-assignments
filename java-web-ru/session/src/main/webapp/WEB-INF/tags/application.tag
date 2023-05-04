@@ -46,8 +46,6 @@
                 </c:if>
                 <% session.removeAttribute("flash"); %>
                 <jsp:doBody />
-            </div>
-            <jsp:doBody />
         </div>
     </body>
 </html>
