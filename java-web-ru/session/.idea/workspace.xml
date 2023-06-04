@@ -5,121 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cf0c7b4-5fed-492c-8fd0-882807f6c253" name="Changes" comment="did">
-      <change beforePath="$PROJECT_DIR$/../crud-in-memory/src/main/webapp/new.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../crud-in-memory/src/main/webapp/new.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../html/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/README.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/examples/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/presentation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/solution" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/src/main/java/exercise/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/src/main/java/exercise/servlet/UploadServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../http/src/test/java/exercise/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/java-web-ru.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/examples/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/src/main/java/exercise/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/src/main/java/exercise/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/src/main/java/exercise/servlet/CompaniesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/src/main/java/exercise/servlet/WelcomeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deploy/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/workspace-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/classes/java/main/org/example/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/classes/java/main/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/classes/java/main/org/example/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/distributions/test.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/distributions/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/libs/test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/resources/main/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/scripts/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/scripts/test.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/org/example/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/resources/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercise/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/exercise/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/exercise/servlet/SessionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/exercise/servlet/SessionServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/session.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/session.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/distributions/session.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/session.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/session.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/session.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/exercise.AppTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/exercise.AppTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/exercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/exercise.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/session" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/session" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/scripts/session.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/session.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-exercise.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-exercise.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/7.5.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/8.0.2/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/workspace-id.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.gradle/workspace-id.txt.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/classes/java/main/exercise/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/classes/java/main/exercise/Users.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/classes/java/main/exercise/servlet/SessionServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/classes/java/main/exercise/servlet/UsersServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/classes/java/main/exercise/servlet/WelcomeServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/classes/java/test/exercise/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/distributions/session.tar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/distributions/session.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/libs/session.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/reports/tests/test/classes/exercise.AppTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/reports/tests/test/packages/exercise.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/scripts/session" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/scripts/session.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/test-results/test/TEST-exercise.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session_03.05.23_23.03.48/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../templating/src/main/webapp/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../templating/src/main/webapp/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/application.tag" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/application.tag" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,8 +237,17 @@
       <workItem from="1683148102739" duration="5542000" />
       <workItem from="1683154271532" duration="1183000" />
       <workItem from="1683155488252" duration="35000" />
-      <workItem from="1683155587169" duration="1463000" />
+      <workItem from="1683155587169" duration="2543000" />
+      <workItem from="1683170013685" duration="20000" />
     </task>
+    <task id="LOCAL-00001" summary="did">
+      <created>1683157577661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683157577661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
